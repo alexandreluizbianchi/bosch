@@ -1,7 +1,6 @@
-# bosch
-Multi-box detector for Bosch challenge
+# Multi-box detector for a challenge
 
-## The notebook "bosch_challenge.ipynb":
+## The notebook "challenge.ipynb":
 
 ### - Downloads the SVIRO dataset (images and bounding box labels for BMW-I3 – whole sceneries in Grayscale):
 #### (i3: 2000 train images and 500 test images)
